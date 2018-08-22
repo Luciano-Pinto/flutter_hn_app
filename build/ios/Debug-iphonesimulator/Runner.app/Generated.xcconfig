@@ -1,0 +1,9 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/lucianopinto/flutter
+FLUTTER_APPLICATION_PATH=/Users/lucianopinto/AndroidStudioProjects/hn_app
+FLUTTER_TARGET=/Users/lucianopinto/AndroidStudioProjects/hn_app/lib/main.dart
+FLUTTER_BUILD_MODE=debug
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/lucianopinto/flutter/bin/cache/artifacts/engine/ios
+PREVIEW_DART_2=true
